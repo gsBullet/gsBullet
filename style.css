@@ -1,0 +1,101 @@
+.headeroption{
+    background:rgb(145, 155, 145);
+    height: 150px;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', b;
+    font-style: bold;
+    padding: 10px;
+    margin: 2px;
+    color: rgb(235, 225, 225);
+    
+}
+body{
+    background-color: gray;
+    
+}
+.footeroption{
+    background:rgb(145, 155, 145);
+    height: 80px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    padding-top: 1px;
+    padding-bottom: 1px ;
+    margin: 2px;
+    color: rgb(235, 225, 225);
+    
+}
+.mainpoint{
+    height: 446px;
+    margin: 2px;
+    background: yellowgreen;
+}
+.currentpriminister{
+    width: 30%;
+    height: 223px;
+    float: left;
+
+}
+.priministerdetails{
+    width: 68%;
+    padding: 10px;
+    overflow: hidden;
+    font-size: 19px;
+    font-family: Times New Roman;
+    height: 205px;
+
+}
+
+.presidentdetails{
+    width: 68%;
+    padding: 10px;
+    font-size: 19px;
+    font-family: Times New Roman;
+    height: 205px;
+    float: left;
+}
+.currentpresident{
+    width: 30%;
+    height: 223px;
+    float: right;
+    overflow: hidden;
+}
+.historyheading{
+    text-align: center;
+    font-family: Times New Roman black;
+    font-size: 35px;
+    background: chartreuse;
+    height: 100px;
+    padding-top: 5px;
+    color:gray;
+
+}
+.historysamary{
+    
+    width: 50%;
+    padding: 10px;
+    float: left;
+    color: whitesmoke;
+    font-style: bold;
+}
+.warphoto{
+    overflow: hidden;
+}
+.history{
+    background-color: blueviolet;
+}
+
+.mjdeader{
+    
+    height: 70px;
+    text-align: center;
+    font-family: arial black;
+    background:chartreuse;
+    color: crimson;
+    font-size: 25px;
+}
+
+.mjpg{
+    text-align: center;
